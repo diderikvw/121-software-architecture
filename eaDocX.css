@@ -1,0 +1,302 @@
+﻿h1
+ { 
+color:#4B6E82;
+text-align:left;
+margin-bottom:21pt;
+margin-top:0pt;
+font-family:"Calibri";
+font-size:18px;
+text-indent:0px;
+}
+h2
+ { 
+color:#4B6E82;
+font-weight:bold;
+text-align:left;
+margin-bottom:0pt;
+margin-top:14pt;
+font-family:"Calibri";
+font-size:10px;
+text-indent:0px;
+}
+h3
+ { 
+color:#505050;
+text-align:left;
+margin-bottom:0pt;
+margin-top:13pt;
+font-family:"Calibri";
+font-size:11px;
+text-indent:0px;
+}
+h4
+ { 
+color:#333333;
+text-align:left;
+margin-bottom:0pt;
+margin-top:0pt;
+font-family:"Calibri";
+font-size:9px;
+text-indent:0px;
+}
+h5
+ { 
+color:#333333;
+text-align:left;
+margin-bottom:0pt;
+margin-top:0pt;
+font-family:"Calibri";
+font-size:9px;
+text-indent:0px;
+}
+h6
+ { 
+color:#333333;
+text-align:left;
+margin-bottom:0pt;
+margin-top:0pt;
+font-family:"Calibri";
+font-size:9px;
+text-indent:0px;
+}
+h7
+ { 
+color:#333333;
+text-align:left;
+margin-bottom:0pt;
+margin-top:0pt;
+font-family:"Calibri";
+font-size:9px;
+text-indent:0px;
+}
+h8
+ { 
+color:#333333;
+text-align:left;
+margin-bottom:0pt;
+margin-top:0pt;
+font-family:"Calibri";
+font-size:9px;
+text-indent:0px;
+}
+h9
+ { 
+color:#000000;
+text-align:left;
+margin-bottom:0pt;
+margin-top:2pt;
+font-family:"Calibri";
+font-size:10,5px;
+text-indent:0px;
+}
+.xNormal
+ { 
+color:#000000;
+text-align:left;
+margin-bottom:0pt;
+margin-top:0pt;
+font-family:"Calibri";
+font-size:11px;
+text-indent:0px;
+}
+.xInlineNormal
+ { 
+color:#000000;
+text-align:left;
+margin-bottom:0pt;
+margin-top:0pt;
+font-family:"Calibri";
+font-size:11px;
+text-indent:0px;
+}
+.xInlineBullet
+ { 
+color:#000000;
+text-align:left;
+margin-bottom:0pt;
+margin-top:0pt;
+font-family:"Calibri";
+font-size:11px;
+text-indent:0px;
+}
+.xInlineNumberedBullet
+ { 
+color:#000000;
+text-align:left;
+margin-bottom:0pt;
+margin-top:0pt;
+font-family:"Calibri";
+font-size:11px;
+text-indent:0px;
+}
+.xTableHead
+ { 
+color:#000000;
+text-align:left;
+margin-bottom:0pt;
+margin-top:0pt;
+font-family:"Calibri";
+font-size:11px;
+text-indent:0px;
+}
+.xTableBody
+ { 
+color:#000000;
+text-align:left;
+margin-bottom:0pt;
+margin-top:0pt;
+font-family:"Calibri";
+font-size:11px;
+text-indent:0px;
+}
+.xTableBullet
+ { 
+color:#000000;
+text-align:left;
+margin-bottom:0pt;
+margin-top:0pt;
+font-family:"Calibri";
+font-size:11px;
+text-indent:0px;
+}
+.xTableNumberedBullet
+ { 
+color:#000000;
+text-align:left;
+margin-bottom:0pt;
+margin-top:0pt;
+font-family:"Calibri";
+font-size:11px;
+text-indent:0px;
+}
+.xMTXHead
+ { 
+color:#000000;
+text-align:left;
+margin-bottom:0pt;
+margin-top:0pt;
+font-family:"Calibri";
+font-size:11px;
+text-indent:0px;
+}
+.xMTXColumn
+ { 
+color:#000000;
+text-align:left;
+margin-bottom:0pt;
+margin-top:0pt;
+font-family:"Calibri";
+font-size:11px;
+text-indent:0px;
+}
+.xMTXCell
+ { 
+color:#000000;
+text-align:left;
+margin-bottom:0pt;
+margin-top:0pt;
+font-family:"Calibri";
+font-size:11px;
+text-indent:0px;
+}
+.xMTXTitle
+ { 
+color:#000000;
+text-align:left;
+margin-bottom:0pt;
+margin-top:0pt;
+font-family:"Calibri";
+font-size:11px;
+text-indent:0px;
+}
+.xHinlineTableHead
+ { 
+color:#000000;
+text-align:left;
+margin-bottom:0pt;
+margin-top:0pt;
+font-family:"Calibri";
+font-size:11px;
+text-indent:0px;
+}
+.xHinlineTableBody
+ { 
+color:#000000;
+text-align:left;
+margin-bottom:0pt;
+margin-top:0pt;
+font-family:"Calibri";
+font-size:11px;
+text-indent:0px;
+}
+.xVinlineTableHead
+ { 
+color:#000000;
+text-align:left;
+margin-bottom:0pt;
+margin-top:0pt;
+font-family:"Calibri";
+font-size:11px;
+text-indent:0px;
+}
+.xVinlineTableBody
+ { 
+color:#000000;
+text-align:left;
+margin-bottom:0pt;
+margin-top:0pt;
+font-family:"Calibri";
+font-size:11px;
+text-indent:0px;
+}
+.xDiagramTitle
+ { 
+color:#000000;
+text-align:left;
+margin-bottom:0pt;
+margin-top:0pt;
+font-family:"Calibri";
+font-size:11px;
+text-indent:0px;
+}
+.xDiagramNotes
+ { 
+color:#000000;
+text-align:left;
+margin-bottom:0pt;
+margin-top:0pt;
+font-family:"Calibri";
+font-size:11px;
+text-indent:0px;
+}
+.xDiagramBullet
+ { 
+color:#000000;
+text-align:left;
+margin-bottom:0pt;
+margin-top:0pt;
+font-family:"Calibri";
+font-size:11px;
+text-indent:0px;
+}
+.xDiagramNumbered
+ { 
+color:#000000;
+text-align:left;
+margin-bottom:0pt;
+margin-top:0pt;
+font-family:"Calibri";
+font-size:11px;
+text-indent:0px;
+}
+.xDiagramImage
+ { 
+color:#000000;
+text-align:left;
+margin-bottom:0pt;
+margin-top:0pt;
+font-family:"Calibri";
+font-size:11px;
+text-indent:0px;
+}
+
